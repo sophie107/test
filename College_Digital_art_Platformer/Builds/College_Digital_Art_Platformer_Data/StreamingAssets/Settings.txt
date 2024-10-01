@@ -1,0 +1,7 @@
+Start_Game_Button_Font_Colour=#00FF00
+Coin_Label_Font_Colour=#FFFFFF
+Quit_Button_Font_Colour=#FFFFFF
+Audio_Slider_Font_Colour=#9900FF
+Header_Font_Colour=#9900FF
+
+
